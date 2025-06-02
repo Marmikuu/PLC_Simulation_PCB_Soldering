@@ -15,4 +15,6 @@ This project was mainly intended as a way to learn and practice PLC programming 
 Additionally, I focused on developing software capable of handling errors, such as verifying whether the PCB product reached the designated zone and implementing timeouts to manage unexpected delays or faults.
 To simulate the oven’s operation, I used discrete control equations to model its thermal behavior more accurately.
 Moreover, I carried out the selection of electrical components and designed a simplified electrical diagram for the system.
+![obraz](https://github.com/user-attachments/assets/50aeb005-cd5d-4593-87f2-c8b8804556fe)
+
 ![obraz](https://github.com/user-attachments/assets/7e273e8b-49fc-45a1-a81c-72cdba43cda4)
