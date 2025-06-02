@@ -5,14 +5,10 @@ This project simulates a simplified SMD (Surface-Mount Device) soldering line us
 The simulation represents the key stages of an industrial soldering line.
 
 The main objective was to demonstrate how a PLC might control the operation of:
-
-    a roller conveyor system,
-
-    an IR reflow oven controlled by PID controller,
-
-    a testing zone,
-
-    and a 2-axis manipulator with a pneumatic gripper, which places the product into the appropriate container (OK box or NOK box).
+- a roller conveyor system,
+- an IR reflow oven controlled by PID controller,
+- a testing zone,
+- a 2-axis manipulaotr with pneumatic gripper, which places the product into appropriate container (OK box or NOK(scrap) box)
 
 This project was mainly intended as a way to learn and practice PLC programming languages as part of a university course. At the same time, I wanted to challenge myself by creating a more complex and realistic automation scenario. I was inspired by real-world PCB manufacturing techniques, and aimed to reflect key steps of that process in my simulation. Although it took hours of research on how soldering is done, I managed to finish this project.
 
